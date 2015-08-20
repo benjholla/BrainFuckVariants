@@ -13,4 +13,4 @@ All implementations assume the following.
 - Variant A is a traditional implementation using forward and reverse seek to implement looping
 - Variant B uses a computed jump table to implement looping
 - Variant C uses a stack to track return address jumps to implement looping
-- Variant D is a traditional implementation using forward and reverse see to implement looping, but instructions are interpreted using an observer pattern to replicate event based programming
+- Variant D is a traditional implementation using forward and reverse seek to implement looping, but instructions are interpreted using an observer pattern to replicate event based programming
